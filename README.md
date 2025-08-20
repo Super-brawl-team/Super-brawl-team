@@ -20,4 +20,4 @@
 - 💻 Llenguatges de programació que conec: **Python, JavaScript, C#, Brainf*ck**
 - 🗣️ Idiomes que parlo: **Català, Francès, Castellà, Anglès** i una mica de **Polonès**.
  
-![Uwu](https://komarev.com/ghpvc/?username=Super-brawl-team)
+![Uwu](https://komarev.com/ghpvc/?username=Super-brawl-team&color=ff0000)
