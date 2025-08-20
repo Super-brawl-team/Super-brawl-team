@@ -1,4 +1,4 @@
-## Hi, I’m Jordi!
+## 👋 Hi, I’m Jordi!
 
 
 - 🔭 Currently working on **RoyaleBrawl V1**
