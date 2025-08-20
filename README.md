@@ -9,4 +9,5 @@
 - 😄 Pronouns: he/him
 - 💻 I know : Python, Javascript, C# and brainf*ck
 - 🗣️ I speak : Catalan, French, Spanish, English and a bit of Polish.
-![](https://komarev.com/ghpvc/?username=Super-brawl-team)
+  
+![Uwu](https://komarev.com/ghpvc/?username=Super-brawl-team)
