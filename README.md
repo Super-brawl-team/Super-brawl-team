@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on *RoyaleBrawl V1*
-- - 🫡 My main projects are : Obiad Brawl and Nostalgic Brawl
+- 🫡 My main projects are : Obiad Brawl and Nostalgic Brawl
 - 🌱 I’m currently learning C#
 - 💬 Ask me about anything if you need to
 - 📫 How to reach me: @depresiveprimo on discord
